@@ -1,0 +1,204 @@
+{
+    "timeline":
+    {
+        "headline":"La cabale toulousaine en 2013",
+        "type":"default",
+        "text":"<p>Un aperçu des activités de la cabale toulousaine en 2013</p>",
+        "asset": {
+            "media":"http://www.flickr.com/photos/pierre-selim/11382818423",
+            "credit":"CC-BY Pierre-Selim",
+            "caption":"Marché, place Arnaud Bernard, 14 décembre 2013."
+        },
+        "date": [                
+            {
+                "startDate":"2013,02,02",
+                "endDate":"2013,02,02",
+                "headline":"Atelier Framakey Wikipédia à la médiathèque José Cabanis",
+                "text":"<p>Trois ateliers de présentation de la Framakey-Wikipédia ont été réalisés dans le réseau de bibliothèques de Toulouse (Cabanis, Grand M et Empalot). Une quinzaine de personnes ont pu découvrir la clé logiciel libre + Wikipédia et une vingtaine sont proposées au prêt et sont déjà régulièrement empruntées. Ces ateliers ont aussi été l'occasion de la création d'une carte de bibliothèque « collectivité » au nom de l'association, permettant d'emprunter jusqu'à trente-six documents, notamment pour l'organisation d'ateliers de contribution hors les murs.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/M%C3%A9diath%C3%A8que_de_Toulouse_-_Pr%C3%A9sentoir_sp%C3%A9cial_Wikip%C3%A9dia.jpg/1280px-M%C3%A9diath%C3%A8que_de_Toulouse_-_Pr%C3%A9sentoir_sp%C3%A9cial_Wikip%C3%A9dia.jpg",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Présentoir Wikipédia à la médiathèque José Cabanis"
+                }
+            },   
+            {
+                "startDate":"2013,02,09",
+                "endDate":"2013,02,09",
+                "headline":"Atelier Framakey Wikipédia à la médiathèque Grand M",
+                "text":"<p>Trois ateliers de présentation de la Framakey-Wikipédia ont été réalisés dans le réseau de bibliothèques de Toulouse (Cabanis, Grand M et Empalot). Une quinzaine de personnes ont pu découvrir la clé logiciel libre + Wikipédia et une vingtaine sont proposées au prêt et sont déjà régulièrement empruntées. Ces ateliers ont aussi été l'occasion de la création d'une carte de bibliothèque « collectivité » au nom de l'association, permettant d'emprunter jusqu'à trente-six documents, notamment pour l'organisation d'ateliers de contribution hors les murs.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://www.flickr.com/photos/pierre-selim/8440933726",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Atelier framakey"
+                }
+            },   
+            {
+                "startDate":"2013,02,23",
+                "endDate":"2013,02,23",
+                "headline":"Atelier Framakey Wikipédia à la médiathèque d'Empalot",
+                "text":"<p>Trois ateliers de présentation de la Framakey-Wikipédia ont été réalisés dans le réseau de bibliothèques de Toulouse (Cabanis, Grand M et Empalot). Une quinzaine de personnes ont pu découvrir la clé logiciel libre + Wikipédia et une vingtaine sont proposées au prêt et sont déjà régulièrement empruntées. Ces ateliers ont aussi été l'occasion de la création d'une carte de bibliothèque « collectivité » au nom de l'association, permettant d'emprunter jusqu'à trente-six documents, notamment pour l'organisation d'ateliers de contribution hors les murs.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://www.flickr.com/photos/pierre-selim/8565011476",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Médiathèque d'Empalot"
+                }
+            },   
+                {
+                "startDate":"2013,02,23",
+                "endDate":"2013,02,23",
+                "headline":"Assemblée générale",
+                "text":"<p>Wikimédia France a tenu une assemblée générale le samedi 23 février à la médiathèque Empalot de Toulouse.Il y a été présenté et soumis à approbation le projet de budget prévisionnel de l'association pour l'exercice juillet 2013 - juin 2014. Ce budget a été approuvé par 194 votes pour, 14 votes contre et 8 votes blancs.</p>",
+                "tag":"Association",
+               "asset": {
+                    "media":"http://www.flickr.com/photos/pierre-selim/8513114881",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Emeric, trésorier-adjoint de l'association"
+                }
+            },    
+            {
+                "startDate":"2013,03,07",
+                "endDate":"2013,03,07",
+                "headline":"Séance de photos d'ethnologie",
+                "text":"<p>Léna et Pierre-Selim se sont rendus au Muséum de Toulouse afin d'en photographier les collections ethnographiques : ce sont plus d'une centaine de poids à peser l'or des royaumes Akan.</p>",
+                "tag":"Photos",
+               "asset": {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Akan_MHNT.ETH.2010.25.078.jpg/1280px-Akan_MHNT.ETH.2010.25.078.jpg",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Poids à peser l'or en forme de lapin des royaumes Akan"
+                }
+            },
+            {
+                "startDate":"2013,04,10",
+                "endDate":"2013,04,10",
+                "headline":"WikiConférence",
+                "text":"<p>Le 10 avril, la cabale toulousaine a organisé une conférence de présentation des projets Wikimédia (Wikipédia, Commons, etc.) et des partenariats de Wikimédia France à Toulouse. La conférence s'est déroulé à la Cantine de Toulouse et a réuni une trentaine de personnes.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/7/77/Max_Liebermann_Kindervolksk%C3%BCche.jpg",
+                    "credit":"PD - Max Liebermann",
+                    "caption":"Lithographie d'une Cantine."
+                }
+            },
+            {
+                "startDate":"2013,05,29",
+                "endDate":"2013,05,29",
+                "headline":"Forom des langues",
+                "text":"<p>Le dimanche 26 mai, la cabale toulousaine, enrichie d'un nouveau membre, a tenu un stand au Forom des langues. Cela a été l'occasion de présenter les activités de l'association en rapport avec les langues au grand public et de rencontrer de nombreuses associations, culturelles et de diaspora. La présence au Forom a aussi été l'occasion d'un nouveau passage sur Radio FMR et de photographies de plusieurs démonstrations de danses de nombreux pays et cultures.</p>",
+                "tag":"Stands",
+               "asset": {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Forom_des_langues_-_Danses_colombiennes_4085.JPG/1280px-Forom_des_langues_-_Danses_colombiennes_4085.JPG",
+                    "credit":"CC-BY-SA Guillaume",
+                    "caption":"Danse colombienne au Forom des langues 2013."
+                }
+            },
+              {
+                "startDate":"2013,06,22",
+                "endDate":"2013,06,22",
+                "headline":"Atelier Wikidata",
+                "text":"<p>Le 22 juin, six wikipédiens toulousains se sont retrouvés à la médiathèque pour un atelier Wikidata.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/1052px-Wikidata-logo-en.svg.png",
+                    "credit":"PD Planemad",
+                    "caption":"Logo de Wikidata."
+                }
+            },
+              {
+                "startDate":"2013,06,29",
+                "endDate":"2013,06,30",
+                "headline":"Roller derby, French connection III",
+                "text":"<p>Guillaume et Pierre-Selim ont été accrédités pour des matchs internationaux de roller-derby, les 29 et 30 juin à Toulouse.</p>",
+                "tag":"Photos",
+               "asset": {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2013-06-29_-_Blocka_Nostra_vs_Herault_Derby_Girlz_-_7876.jpg/1024px-2013-06-29_-_Blocka_Nostra_vs_Herault_Derby_Girlz_-_7876.jpg",
+                    "credit":"CC-BY",
+                    "caption":"Blocka Nostra."
+                }
+            },
+            {
+                "startDate":"2013,07,15",
+                "endDate":"2013,07,15",
+                "headline":"Ateliers templateData",
+                "text":"<p>Guillaume Paumier a organisé chez lui, le 15 juillet, un atelier sur Visual Editor et les <a href='http://fr.wikipedia.org/wiki/Projet:Mod%C3%A8le/TemplateData'>TemplateData</a>.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/VisualEditor-logo.svg/1000px-VisualEditor-logo.svg.png",
+                    "credit":"(tm) Wikimedia Foundation",
+                    "caption":"Logo de l'éditeur visuel"
+                }
+            },
+            {
+                "startDate":"2013,09,29",
+                "endDate":"2013,10,12",
+                "headline":"La Novela 2013",
+                "text":"<p>La Novela, le festival des savoirs partagés, a été l'occasion de présenter l'avancement du projet Phoebus cette année. Il a fallu constater qu'en termes de diffusion des photographies des collections ethnographiques les résultats ont été décevants par rapport aux autres fonds. Cela a aussi été l'occasion de participer à une table rond sur les biens communs numériques. Enfin, la présentation Wikipédia et le gender-gap, lors de la soirée « Genre et Geek », a permis de rencontrer de nombreuses personnes intéressées à la création d'une dynamique d'ateliers de contribution à Toulouse</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://www.flickr.com/photos/pierre-selim/10183552205",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Table ronde Genre et Geek."
+                }
+            },
+                {
+                "startDate":"2013,11,3",
+                "endDate":"2013,11,3",
+                "headline":"Atelier de contribution sur l'histoire des femmes et du féminisme",
+                "text":"<p>Dimanche 3 novembre a eu lieu un atelier de contribution sur le thème de l'histoire des femmes et du féminisme. Cela a permis un rapprochement avec des associations de la région et la planification d'autres événements.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ada_Lovelace.svg/500px-Ada_Lovelace.svg.png",
+                    "credit":"CC0 Colin Adams",
+                    "caption":"Ada Lovelace."
+                }
+            },
+            {
+                "startDate":"2013,11,23",
+                "endDate":"2013,11,23",
+                "headline":"Atlier de contribution sur l'immigration à Toulouse",
+                "text":"<p>Samedi 23, de 14h à 16h, nous avons organisons un atelier de contribution sur le thème « L’immigration maghrébine à Toulouse », à la médiathèque José Cabanis.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://www.flickr.com/photos/65491958@N06/6911428107",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Place Arnaud Bernard"
+                }
+            },
+            {
+                "startDate":"2013,11,23",
+                "endDate":"2013,11,24",
+                "headline":"Capitole du libre",
+                "text":"<p>Le week-end des 23 et 24 novembre a eu lieu l'édition 2013 du Capitole du libre, un événement de promotion de la culture libre. De nombreuses conférences aux thèmes variés ont été données le samedi, parmi lesquelles Wikipédia, Wikimédia, du nouveau dans les projets. Cette conférence était dédiée aux nouveautés techniques de l'année passée destinées à faciliter le travail des contributeurs et en attirer de nouveaux. Elle a rassemblé quelques dizaines d'auditeurs, qui ont semblé très intéressés. La vidéo sera bientôt disponible sur le site de l'événement.</p>",
+                "tag":"Stands",
+               "asset": {
+                    "media":"http://www.flickr.com/photos/pierre-selim/8219860067",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Une bénévole explique les projets lors du Capitole du libre."
+                }
+            },
+            {
+                "startDate":"2013,12,13",
+                "endDate":"2013,12,14",
+                "headline":"Tour de France des régions",
+                "text":"<p>Le tour de France des régions commence à Toulouse par la visite de Nathalie. Cela nous a permi de discuter de la stratégie de developpement territoriale et en particulier des besoins de la cabale.</p><p>voir le billet de blog: <a href='http://blog.wikimedia.fr/wikimedia-france-a-toulouse-6262'>Wikimédia France à Toulouse</a></p>",
+                "tag":"Association",
+               "asset": {
+                    "media":"http://www.flickr.com/photos/pierre-selim/11382600034",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Nathalie, directrice générale de Wikimédia France, en visite à Toulouse les 13-14 décembre."
+                }
+            }
+        ],
+        "era": [
+            {
+                "startDate":"2013,01,01",
+                "endDate":"2013,12,31",
+                "headline":"La cabale toulousaine en 2013",
+                "text":"<p>La cabale toulousaine en 2013</p>"
+            }
+
+        ]
+    }
+}

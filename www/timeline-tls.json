@@ -1,0 +1,37 @@
+{
+    "timeline":
+    {
+        "headline":"La cabale toulousaine",
+        "type":"default",
+        "text":"<p>Un aperçu des activités de la cabale toulousaine</p><ul><li><a href='./2013'>en 2013</a></li><li><a href='./2014'>en 2014</a></li>",
+        "asset": {
+            "media":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Panorama_from_pont_Saint-Pierre_in_Toulouse_-_2012-08-31.jpg/640px-Panorama_from_pont_Saint-Pierre_in_Toulouse_-_2012-08-31.jpg",
+            "credit":"CC-BY Pierre-Selim",
+            "caption":"Les rives de la Garonne, 31 aout 2012."
+        },
+
+        "date": [
+            {
+                "startDate":"2013,01,01",
+                "endDate":"2013,12,31",
+                "headline":"Activités en 2013",
+                "text":"<p><a href='./2013'>La cabale toulousaine en 2013<a/></p>"
+            },
+
+            {
+                "startDate":"2014,01,01",
+                "endDate":"2014,12,31",
+                "headline":"Activités en 2014",
+                "text":"<p><a href='./2014'>La cabale toulousaine en 2014<a/></p>"
+            }
+        ],
+        "era": [
+                    {
+                "startDate":"2013,01,01",
+                "endDate":"2014,12,31",
+                "headline":"La cabale toulousaine en 2013-2014",
+                "text":"<p>La cabale toulousaine en 2013-2014</p>"
+            }
+        ]
+    }
+}

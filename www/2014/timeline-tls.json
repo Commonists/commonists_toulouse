@@ -1,0 +1,96 @@
+{
+    "timeline":
+    {
+        "headline":"La cabale toulousaine en 2014",
+        "type":"default",
+        "text":"<p>Un aperçu des activités de la cabale toulousaine en 2014</p>",
+        "asset": {
+            "media":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Capitole_du_libre_2012_-_I_IZ_ON_Wikimedia.jpg/640px-Capitole_du_libre_2012_-_I_IZ_ON_Wikimedia.jpg",
+            "credit":"CC-BY Pierre-Selim",
+            "caption":"Petit tigre et son appareil photo à Capitole du Libre."
+        },
+        "date": [                
+            {
+                "startDate":"2014,01,26",
+                "endDate":"2014,01,26",
+                "headline":"Journée du domaine public au musée des Augustins et à la médiathèque José Cabanis",
+                "text":"<p>Atelier de contribution le matin au musée des Augustins sur les artistes du musée entrant dans le domaine public en 2014. L'après-midi, conférences autour du domaine public, ses enjeux légaux et économiques, son lien avec la création contemporaine, les projets Wikimedia et les institutions culturelles. Le soir, projection spéciale domaine public à l'Utopia Toulouse.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Journ%C3%A9e_du_domaine_public_2014_-_Romaine_Lubrique.jpg/640px-Journ%C3%A9e_du_domaine_public_2014_-_Romaine_Lubrique.jpg",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Romaine Lubrique à la conférence du domaine public"
+                }
+            },  
+			 {
+                "startDate":"2014,01,31",
+                "endDate":"2014,02,28",
+                "headline":"Atelier Wikipédia à la médiathèque Saint-Etienne-de-Tulmont.",
+                "text":"<p>Les 31 janvier, 7, 14 et 21 février, atelier de contribution à Wikipédia à la médiathèque Saint-Etienne-de-Tulmont, près de Montauban.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ancienne_gare_de_Saint-Etienne-de-Tulmont..jpg/640px-Ancienne_gare_de_Saint-Etienne-de-Tulmont..jpg",
+                    "credit":"CC-BY-SA VIVES",
+                    "caption":"Ancienne gare de Saint-Etienne-de-Tulmont"
+                }
+            },  
+			 {
+                "startDate":"2014,02,08",
+                "endDate":"2014,02,08",
+                "headline":"France - Italie du VI Nations féminin",
+                "text":"<p>Couverture de la rencontre France-Italie de rugby à XV féminin comptant pour le tournoi des VI nations.</p>",
+                "tag":"Photos",
+               "asset": {
+                    "media":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2014_Women%27s_Six_Nations_Championship_-_France_Italy_%28119%29.jpg/640px-2014_Women%27s_Six_Nations_Championship_-_France_Italy_%28119%29.jpg",
+                    "credit":"CC-BY Caroline Léna Becker",
+                    "caption":"Ruck lors de France - Italie"
+                }
+            },  
+			 {
+                "startDate":"2014,02,22",
+                "endDate":"2014,02,22",
+                "headline":"Conférence Wikipédia à la médiathèque d'Albi",
+                "text":"<p>Conférence de présentation générale de Wikipédia à la médiathèque d'Albi.</p>",
+                "tag":"Ateliers et conférences",
+               "asset": {
+                    "media":"http://ppcdn.500px.org/61936359/4bf37e2e9a1f82d2c7994e7607f538190ef2de5c/2048.jpg",
+                    "credit":"CC-BY Pierre-Selim",
+                    "caption":"Nuit tombant sur Albi"
+                }
+            },  
+            {
+                "startDate":"2014,03,02",
+                "endDate":"2014,03,02",
+                "headline":"Semi-marathon de Paris 2014",
+                "text":"<p>Couverture du semi-marathon de Paris, 2014</p>",
+                "tag":"Photos",
+               "asset": {
+                    "media":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Yebrugal_Melese_-_Paris_Half_Marathon_2014_-_5233.jpg/1024px-Yebrugal_Melese_-_Paris_Half_Marathon_2014_-_5233.jpg",
+                    "credit":"CC-BY Pierre-Selim Huard",
+                    "caption":"Yebrugal Melese, vainqueure du semi de Paris 2014"
+                }
+            },
+			 {
+                "startDate":"2014,03,08",
+                "endDate":"2014,03,08",
+                "headline":"<i>Championnes de cœur</i>, match de gala de basketball féminin",
+                "text":"<p>Couverture du match de gala <i>Championnes de cœur</i> entre anciennes internationales françaises et grandes joueuses actuelle au profit de l'UNICEF.</p>",
+                "tag":"Photos",
+               "asset": {
+                    "media":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cathy_Melain.jpg/600px-Cathy_Melain.jpg",
+                    "credit":"CC-BY Caroline Léna Becker",
+                    "caption":"Cathy Melain, match de gala championnes de cœur"
+                }
+            }
+        ],
+        "era": [
+            {
+                "startDate":"2014,01,01",
+                "endDate":"2014,12,31",
+                "headline":"La cabale toulousaine en 2014",
+                "text":"<p>La cabale toulousaine en 2014</p>"
+            }
+
+        ]
+    }
+}
